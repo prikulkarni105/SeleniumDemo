@@ -3,11 +3,11 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="RahulShetty.PracticePage">
+      <class name="GreenKart.MainLogic">
         <methods>
-          <include name="assignment1"/>
+          <include name="finalExecution"/>
         </methods>
-      </class> <!-- RahulShetty.PracticePage -->
+      </class> <!-- GreenKart.MainLogic -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->

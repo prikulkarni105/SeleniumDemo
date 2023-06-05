@@ -10,6 +10,7 @@ public class MainLogic {
 	{
 	  WebDriver driver=	InitDriver.startDriver();
 	  HomepageOperations.addToCart(driver);
+	  GoToCart.checkCart(driver);
 	}
 	
 }
